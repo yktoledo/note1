@@ -1,11 +1,13 @@
 package com.example.yendry.room1;
 
+import android.content.Context;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.transition.TransitionInflater;
 import android.view.View;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.Toast;
 
 import com.example.yendry.room1.base.ActivityBase;
@@ -35,7 +37,7 @@ public class MainActivity extends ActivityBase implements OnFragmentInteractionL
         if (fragment == null) {
             fragment = HomeFragment.newInstance();
         }
-        addFragment(fragment, HOME_FRAGMENT_TAG, null);
+        addFragment(fragment, HOME_FRAGMENT_TAG);
 
     }
 
@@ -45,27 +47,24 @@ public class MainActivity extends ActivityBase implements OnFragmentInteractionL
 
     }
 
-    public void startFragmentByTag(String tag, @Nullable View view) {
-        Fragment fragment = null;
-        if (tag.equalsIgnoreCase(DETAIL_FRAGMENT_TAG)) {
+    @Override
+    public void onItemClicked(String id) {
 
-            fragment = manager.findFragmentByTag(DETAIL_FRAGMENT_TAG);
-            if (fragment == null) {
-                fragment = DetailFragment.newInstance("id");
-            }
-        }else if (tag.equalsIgnoreCase(ADD_FRAGMENT_TAG)){
+        DetailFragment fragment = DetailFragment.newInstance(id);
+
+        addFragment(fragment, DETAIL_FRAGMENT_TAG);
+
+    }
+
+    public void startFragmentByTag(String tag, @Nullable View view) {
+        hideKeyBoard();
+
+        Fragment fragment = null;
+         if (tag.equalsIgnoreCase(ADD_FRAGMENT_TAG)){
             fragment = manager.findFragmentByTag(ADD_FRAGMENT_TAG);
             if (fragment == null) {
 
                 fragment = AddFragment.newInstance();
-                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-
-                    fragment.setSharedElementEnterTransition(TransitionInflater.from(
-                            this).inflateTransition(R.transition.change_image_trans));
-                    fragment.setEnterTransition(TransitionInflater.from(
-                            this).inflateTransition(android.R.transition.fade));
-
-                }
             }
         }else if (tag.equalsIgnoreCase(HOME_FRAGMENT_TAG)){
             fragment = manager.findFragmentByTag(HOME_FRAGMENT_TAG);
@@ -77,7 +76,16 @@ public class MainActivity extends ActivityBase implements OnFragmentInteractionL
         if (fragment==null){
             Toast.makeText(this, "No fragment", Toast.LENGTH_SHORT).show();
         }else {
-            addFragment(fragment, tag, view);
+            addFragment(fragment, tag);
+        }
+    }
+
+    private void hideKeyBoard() {
+        // Check if no view has focus:
+        View view = this.getCurrentFocus();
+        if (view != null) {
+            InputMethodManager imm = (InputMethodManager)getSystemService(Context.INPUT_METHOD_SERVICE);
+            imm.hideSoftInputFromWindow(view.getWindowToken(), 0);
         }
     }
 }

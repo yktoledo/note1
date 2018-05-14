@@ -22,6 +22,7 @@ import com.example.yendry.room1.App;
 import com.example.yendry.room1.MainActivity;
 import com.example.yendry.room1.R;
 import com.example.yendry.room1.module.Note;
+import com.example.yendry.room1.util.AdapterInterface;
 import com.example.yendry.room1.util.OnFragmentInteractionListener;
 import com.example.yendry.room1.viewmodel.HomeFragmentViewModel;
 
@@ -35,7 +36,7 @@ import static com.example.yendry.room1.util.Constants.ADD_FRAGMENT_TAG;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class HomeFragment extends Fragment {
+public class HomeFragment extends Fragment implements AdapterInterface{
 
     @Inject
     ViewModelProvider.Factory viewModelFactory;
@@ -57,7 +58,7 @@ public class HomeFragment extends Fragment {
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         ((App)getActivity().getApplication()).getComponent().inject(this);
-        adapter = new Adapter();
+        adapter = new Adapter(this, getContext());
     }
 
     @Override
@@ -109,7 +110,7 @@ public class HomeFragment extends Fragment {
                 .get(HomeFragmentViewModel.class);
 //        homeFragmentViewModel.removeAll();
         homeFragmentViewModel.getAllNotes().observe(this, notes -> {
-            if (notes != null) {
+            if (notes != null && notes.size()>0) {
                 adapter.setList(notes);
             }
 
@@ -128,5 +129,15 @@ public class HomeFragment extends Fragment {
     public void onAttach(Context context) {
         super.onAttach(context);
         listener = (MainActivity)context;
+    }
+
+    @Override
+    public void onItemClick(String id) {
+        listener.onItemClicked(id);
+    }
+
+    @Override
+    public void onDelete(Note note) {
+        homeFragmentViewModel.deleteNote(note);
     }
 }

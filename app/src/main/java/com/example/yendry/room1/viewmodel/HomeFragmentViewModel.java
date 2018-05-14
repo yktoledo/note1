@@ -30,10 +30,25 @@ public class HomeFragmentViewModel extends ViewModelBase {
 
 
     public void removeAll() {
-        new RemoveItemTask().execute();
+        new RemoveAllTask().execute();
     }
+
+    public void deleteNote(Note note) {
+        new RemoveItemTask().execute(note);
+    }
+
     @SuppressLint("StaticFieldLeak")
-    private class RemoveItemTask extends AsyncTask<Void, Void, Void> {
+    private class RemoveItemTask extends AsyncTask<Note, Void, Void> {
+
+        @Override
+        protected Void doInBackground(Note... item) {
+            repository.deleteote(item[0]);
+            return null;
+        }
+    }
+
+    @SuppressLint("StaticFieldLeak")
+    private class RemoveAllTask extends AsyncTask<Void, Void, Void> {
 
         @Override
         protected Void doInBackground(Void... item) {

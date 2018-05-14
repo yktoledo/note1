@@ -6,4 +6,5 @@ package com.example.yendry.room1.util;
 
 public interface OnFragmentInteractionListener {
     void onFragmentInteraction(String tag);
+    void onItemClicked(String id);
 }

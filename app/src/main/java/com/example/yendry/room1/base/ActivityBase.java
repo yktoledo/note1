@@ -28,7 +28,7 @@ public abstract class ActivityBase extends AppCompatActivity{
         supportFragmentManager = getSupportFragmentManager();
     }
 
-    public void addFragment(Fragment fragment, String tag, View view) {
+    public void addFragment(Fragment fragment, String tag) {
 
         FragmentTransaction transaction = supportFragmentManager.beginTransaction();
         transaction.replace(R.id.content, fragment, tag);
@@ -37,9 +37,6 @@ public abstract class ActivityBase extends AppCompatActivity{
             supportFragmentManager.popBackStack(HOME_FRAGMENT_TAG, 0);
         }
         transaction.addToBackStack(tag);
-        if (tag.equalsIgnoreCase(ADD_FRAGMENT_TAG)){
-            transaction.addSharedElement(view, "TRANS_BUTTON");
-        }
         transaction.commit();
     }
 
