@@ -66,7 +66,6 @@ public class HomeFragment extends Fragment implements AdapterInterface{
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_home, container, false);
-        txt = view.findViewById(R.id.txt);
         rv = view.findViewById(R.id.rv_home_id);
         rv.setLayoutManager(new LinearLayoutManager(getActivity(), LinearLayoutManager.VERTICAL, false));
         rv.setAdapter(adapter);
