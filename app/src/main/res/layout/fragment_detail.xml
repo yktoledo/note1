@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.yendry.room1.view.DetailFragment">
+
+    <TextView
+        android:layout_centerHorizontal="true"
+        android:id="@+id/detail_title_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/detail_title_id"
+        android:id="@+id/detail_content_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</RelativeLayout>

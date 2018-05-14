@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.yendry.room1.view.AddFragment">
+
+    <EditText
+        android:id="@+id/add_title_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="title" />
+
+
+    <EditText
+        android:id="@+id/add_content_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left|top"
+        android:inputType="textCapSentences|textMultiLine"
+        android:lines="3" />
+
+    <Button
+        android:transitionName="fragment_image_trans"
+        android:id="@+id/add_btn_id"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:text="add" />
+
+</LinearLayout>
