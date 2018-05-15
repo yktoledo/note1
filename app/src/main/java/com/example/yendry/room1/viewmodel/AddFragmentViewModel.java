@@ -2,24 +2,32 @@ package com.example.yendry.room1.viewmodel;
 
 import android.annotation.SuppressLint;
 import android.os.AsyncTask;
+import android.os.Handler;
 
 import com.example.yendry.room1.base.ViewModelBase;
 import com.example.yendry.room1.module.Note;
 import com.example.yendry.room1.module.NoteRepository;
+import com.example.yendry.room1.view.AddFragment;
 
 /**
  * Created by yendry on 5/11/18.
  */
 
-public class AddFragmentViewModel extends ViewModelBase{
+public class AddFragmentViewModel extends ViewModelBase<AddFragment>{
 
 
     public AddFragmentViewModel(NoteRepository repository) {
         super(repository);
     }
 
+    @Override
+    public void init() {
+        fragment.showToast();
+    }
+
 
     public void insert(Note note) {
+
         new AddItemTask().execute(note);
     }
 

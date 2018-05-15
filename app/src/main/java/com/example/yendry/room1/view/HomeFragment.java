@@ -17,10 +17,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.example.yendry.room1.App;
 import com.example.yendry.room1.MainActivity;
 import com.example.yendry.room1.R;
+import com.example.yendry.room1.base.FragmentBase;
 import com.example.yendry.room1.module.Note;
 import com.example.yendry.room1.util.AdapterInterface;
 import com.example.yendry.room1.util.OnFragmentInteractionListener;
@@ -36,7 +38,7 @@ import static com.example.yendry.room1.util.Constants.ADD_FRAGMENT_TAG;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class HomeFragment extends Fragment implements AdapterInterface{
+public class HomeFragment extends FragmentBase implements AdapterInterface{
 
     @Inject
     ViewModelProvider.Factory viewModelFactory;
@@ -72,18 +74,7 @@ public class HomeFragment extends Fragment implements AdapterInterface{
 
 
         fab = view.findViewById(R.id.floating_id);
-        fab.setOnClickListener(v -> {
-            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-                setSharedElementReturnTransition(TransitionInflater.from(
-                        getActivity()).inflateTransition(R.transition.change_image_trans));
-                setExitTransition(TransitionInflater.from(
-                        getActivity()).inflateTransition(android.R.transition.fade));
-            }
-
-
-            listener.onFragmentInteraction(ADD_FRAGMENT_TAG);
-
-        });
+        fab.setOnClickListener(v -> listener.onFragmentInteraction(ADD_FRAGMENT_TAG));
 
 
 
@@ -108,8 +99,9 @@ public class HomeFragment extends Fragment implements AdapterInterface{
         homeFragmentViewModel = ViewModelProviders.of(this, viewModelFactory)
                 .get(HomeFragmentViewModel.class);
 //        homeFragmentViewModel.removeAll();
+        homeFragmentViewModel.setFragment(this);
         homeFragmentViewModel.getAllNotes().observe(this, notes -> {
-            if (notes != null && notes.size()>0) {
+            if (notes != null) {
                 adapter.setList(notes);
             }
 
@@ -138,5 +130,10 @@ public class HomeFragment extends Fragment implements AdapterInterface{
     @Override
     public void onDelete(Note note) {
         homeFragmentViewModel.deleteNote(note);
+    }
+
+
+    public void showToast(){
+        Toast.makeText(getContext(), "HomeFragment", Toast.LENGTH_SHORT).show();
     }
 }

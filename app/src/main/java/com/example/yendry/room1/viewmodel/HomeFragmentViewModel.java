@@ -2,12 +2,12 @@ package com.example.yendry.room1.viewmodel;
 
 import android.annotation.SuppressLint;
 import android.arch.lifecycle.LiveData;
-import android.arch.lifecycle.ViewModel;
 import android.os.AsyncTask;
 
 import com.example.yendry.room1.base.ViewModelBase;
 import com.example.yendry.room1.module.Note;
 import com.example.yendry.room1.module.NoteRepository;
+import com.example.yendry.room1.view.HomeFragment;
 
 import java.util.List;
 
@@ -15,12 +15,18 @@ import java.util.List;
  * Created by yendry on 5/11/18.
  */
 
-public class HomeFragmentViewModel extends ViewModelBase {
+public class HomeFragmentViewModel extends ViewModelBase<HomeFragment> {
 
 
 
     public HomeFragmentViewModel(NoteRepository repository) {
         super(repository);
+
+    }
+
+    @Override
+    public void init() {
+
     }
 
 
@@ -34,6 +40,7 @@ public class HomeFragmentViewModel extends ViewModelBase {
     }
 
     public void deleteNote(Note note) {
+        fragment.showToast();
         new RemoveItemTask().execute(note);
     }
 
@@ -42,7 +49,7 @@ public class HomeFragmentViewModel extends ViewModelBase {
 
         @Override
         protected Void doInBackground(Note... item) {
-            repository.deleteote(item[0]);
+            repository.deleteNote(item[0]);
             return null;
         }
     }

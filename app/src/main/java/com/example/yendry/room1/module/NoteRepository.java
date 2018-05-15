@@ -27,7 +27,7 @@ public class NoteRepository {
         return noteDao.getNote(id);
     }
 
-    public void deleteote(Note note){
+    public void deleteNote(Note note){
         noteDao.deleteNote(note);
     }
     public void createNote(Note note){

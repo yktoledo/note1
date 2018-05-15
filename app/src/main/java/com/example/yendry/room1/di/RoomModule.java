@@ -62,7 +62,7 @@ public class RoomModule {
 
     @Provides
     @Singleton
-    NoteDatabase provideListItemDatabase(Application application){
+    NoteDatabase provideListItemDatabase(){
         return database;
     }
 

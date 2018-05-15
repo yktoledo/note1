@@ -12,10 +12,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.example.yendry.room1.App;
 import com.example.yendry.room1.MainActivity;
 import com.example.yendry.room1.R;
+import com.example.yendry.room1.base.FragmentBase;
 import com.example.yendry.room1.util.OnFragmentInteractionListener;
 import com.example.yendry.room1.viewmodel.DetailFragmentViewModel;
 
@@ -26,7 +28,7 @@ import static com.example.yendry.room1.util.Constants.EXTRA_ITEM_ID;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class DetailFragment extends Fragment {
+public class DetailFragment extends FragmentBase {
 
     private static final String TAG = DetailFragment.class.getSimpleName();
     @Inject
@@ -88,9 +90,14 @@ public class DetailFragment extends Fragment {
         super.onActivityCreated(savedInstanceState);
 
         detailFragmentViewModel = ViewModelProviders.of(this, viewModelFactory).get(DetailFragmentViewModel.class);
+        detailFragmentViewModel.setFragment(this);
         detailFragmentViewModel.getNote(id).observe(this, note -> {
            title.setText(note.getTitle());
            content.setText(note.getContent());
         });
+    }
+
+    public void showToast(){
+        Toast.makeText(getContext(), "DetailFragment", Toast.LENGTH_SHORT).show();
     }
 }

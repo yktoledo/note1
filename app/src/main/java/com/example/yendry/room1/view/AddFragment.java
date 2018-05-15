@@ -5,6 +5,7 @@ import android.arch.lifecycle.ViewModelProvider;
 import android.arch.lifecycle.ViewModelProviders;
 import android.content.Context;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.text.TextUtils;
@@ -18,6 +19,7 @@ import android.widget.Toast;
 import com.example.yendry.room1.App;
 import com.example.yendry.room1.MainActivity;
 import com.example.yendry.room1.R;
+import com.example.yendry.room1.base.FragmentBase;
 import com.example.yendry.room1.module.Note;
 import com.example.yendry.room1.util.OnFragmentInteractionListener;
 import com.example.yendry.room1.viewmodel.AddFragmentViewModel;
@@ -31,7 +33,7 @@ import static com.example.yendry.room1.util.Constants.HOME_FRAGMENT_TAG;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class AddFragment extends Fragment {
+public class AddFragment extends FragmentBase {
     @Inject
     ViewModelProvider.Factory viewModelFactory;
     EditText title, content;
@@ -84,7 +86,15 @@ public class AddFragment extends Fragment {
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
         addFragmentViewModel = ViewModelProviders.of(this, viewModelFactory).get(AddFragmentViewModel.class);
+        addFragmentViewModel.setFragment(this);
     }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+        addFragmentViewModel.init();
+    }
+
 
     @Override
     public void onDetach() {
@@ -97,5 +107,7 @@ public class AddFragment extends Fragment {
         super.onAttach(context);
         listener = (MainActivity)context;
     }
-
+    public void showToast(){
+        Toast.makeText(getContext(), "AddFragment", Toast.LENGTH_SHORT).show();
+    }
 }

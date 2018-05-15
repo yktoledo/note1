@@ -4,14 +4,13 @@ import android.arch.lifecycle.ViewModel;
 import android.arch.lifecycle.ViewModelProvider;
 import android.support.annotation.NonNull;
 
-import com.example.yendry.room1.base.ViewModelBase;
 import com.example.yendry.room1.module.NoteRepository;
-import com.example.yendry.room1.view.DetailFragment;
 import com.example.yendry.room1.viewmodel.AddFragmentViewModel;
 import com.example.yendry.room1.viewmodel.DetailFragmentViewModel;
 import com.example.yendry.room1.viewmodel.HomeFragmentViewModel;
 
 import javax.inject.Inject;
+
 
 /**
  * Created by yendry on 5/11/18.
