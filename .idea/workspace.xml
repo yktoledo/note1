@@ -6,291 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab0d9f0d-8ecb-49a0-9f6c-9ed12c22b93d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_extensions_1_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_extensions_1_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_persistence_db_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_persistence_db_1_1_0.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_persistence_db_framework_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_persistence_db_framework_1_1_0.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_persistence_room_runtime_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_persistence_room_runtime_1_1_0.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cardview_v7_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cardview_v7_27_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_0.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_27_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_27_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_27_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_27_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_27_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_27_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_JakeWharton_ViewPagerIndicator_2_4_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_JakeWharton_ViewPagerIndicator_2_4_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_dagger_dagger_android_2_13.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_dagger_dagger_android_2_13.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_dagger_dagger_android_support_2_13.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_dagger_dagger_android_support_2_13.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__de_hdodenhof_circleimageview_2_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__de_hdodenhof_circleimageview_2_1_0.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/base/FragmentBase.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/base/FragmentBase.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/base/ViewModelBase.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/base/ViewModelBase.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/di/RoomModule.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/di/RoomModule.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/module/NoteRepository.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/module/NoteRepository.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/util/CustomViewModelFactory.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/util/CustomViewModelFactory.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/AddFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/AddFragment.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/DetailFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/DetailFragment.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/HomeFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/HomeFragment.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/viewmodel/AddFragmentViewModel.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/viewmodel/AddFragmentViewModel.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/viewmodel/DetailFragmentViewModel.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/viewmodel/DetailFragmentViewModel.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/viewmodel/HomeFragmentViewModel.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/viewmodel/HomeFragmentViewModel.java" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-26-56-707.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-26-56-707.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-27-04-850.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-27-04-850.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-29-05-408.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-29-05-408.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-29-10-766.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-29-10-766.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-30-36-997.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-30-36-997.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-30-40-916.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-30-40-916.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-32-42-213.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-32-42-213.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-32-47-916.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-32-47-916.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-33-51-188.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-33-51-188.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-33-56-051.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-33-56-051.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-39-25-395.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-39-25-395.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-39-27-825.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-39-27-825.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-39-50-892.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-39-50-892.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-39-52-691.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-39-52-691.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-45-20-193.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-45-20-193.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-45-22-382.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-09-45-22-382.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-10-29-07-859.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-10-29-07-859.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-10-29-10-539.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-10-29-10-539.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-18-16-200.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-18-16-200.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-20-25-803.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-20-25-803.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-23-25-942.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-23-25-942.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-29-07-473.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-29-07-473.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-30-06-923.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-30-06-923.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-33-33-800.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-33-33-800.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-33-44-090.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-33-44-090.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-34-11-987.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-34-11-987.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-35-19-998.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-35-19-998.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-35-44-383.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-35-44-383.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-36-35-126.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-36-35-126.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-37-47-208.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-37-47-208.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-39-31-978.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-39-31-978.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-41-40-249.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-41-40-249.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-48-16-404.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-48-16-404.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-52-08-291.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-52-08-291.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-54-03-247.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-54-03-247.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-55-22-728.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-55-22-728.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-58-00-501.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-11-58-00-501.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-12-00-37-697.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-12-00-37-697.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-12-03-56-243.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-12-03-56-243.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-12-06-51-870.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-12-06-51-870.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-12-07-55-586.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-12-07-55-586.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-20-04-357.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-20-04-357.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-20-41-164.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-20-41-164.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-21-08-661.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-21-08-661.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-23-47-775.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-23-47-775.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-26-08-538.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-26-08-538.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-28-14-681.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-28-14-681.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-29-10-892.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-29-10-892.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-29-33-994.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-29-33-994.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-29-45-843.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-29-45-843.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-31-06-095.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-31-06-095.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-31-35-727.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-31-35-727.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-42-52-229.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-42-52-229.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-45-03-098.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-45-03-098.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-46-04-664.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-46-04-664.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-48-40-235.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-48-40-235.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-49-28-592.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-49-28-592.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-50-02-302.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-50-02-302.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-51-27-866.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-51-27-866.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-52-42-301.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-52-42-301.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-57-48-485.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-57-48-485.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-59-29-331.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-13-59-29-331.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-14-02-10-539.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-14-02-10-539.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-14-02-42-187.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-14-02-42-187.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-14-05-34-142.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-14-05-34-142.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-20-16-29-507.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-20-16-29-507.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-20-26-24-508.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-11-20-26-24-508.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-08-40-836.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-08-40-836.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-09-34-000.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-09-34-000.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-16-54-838.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-16-54-838.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-16-58-628.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-16-58-628.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-22-08-569.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-22-08-569.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-22-46-672.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-22-46-672.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-45-56-908.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-45-56-908.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-47-11-409.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-47-11-409.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-51-04-256.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-51-04-256.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-51-45-814.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-51-45-814.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-52-48-378.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-52-48-378.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-55-33-291.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-55-33-291.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-56-20-189.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-56-20-189.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-56-43-227.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-56-43-227.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-58-38-533.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-58-38-533.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-59-42-046.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-11-59-42-046.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-12-00-36-296.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-12-00-36-296.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-12-23-39-110.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-12-23-39-110.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-12-25-29-783.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-12-25-29-783.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-12-26-05-947.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-12-26-05-947.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-12-26-42-875.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-12-12-26-42-875.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-08-31-09-068.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-08-31-09-068.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-08-34-21-976.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-08-34-21-976.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-09-04-35-123.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-09-04-35-123.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-09-04-52-304.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-09-04-52-304.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-09-06-15-998.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-09-06-15-998.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-10-59-49-518.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-10-59-49-518.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-02-24-319.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-02-24-319.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-03-05-695.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-03-05-695.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-04-15-633.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-04-15-633.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-06-04-689.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-06-04-689.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-10-00-990.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-10-00-990.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-14-11-388.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-14-11-388.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-14-22-692.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-14-22-692.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-16-05-861.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-16-05-861.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-16-44-749.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-16-44-749.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-18-18-575.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-18-18-575.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-18-56-952.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-18-56-952.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-19-28-642.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-19-28-642.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-35-27-863.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-35-27-863.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-36-43-077.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-36-43-077.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-37-57-843.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-37-57-843.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-57-09-299.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-11-57-09-299.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-12-07-59-119.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-12-07-59-119.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-12-09-03-767.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-12-09-03-767.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-12-14-15-540.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-12-14-15-540.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-12-21-36-544.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-12-21-36-544.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-12-22-39-313.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-05-14-12-22-39-313.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change beforePath="$PROJECT_DIR$/note1.iml" afterPath="$PROJECT_DIR$/note1.iml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/Adapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/Adapter.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -312,41 +28,55 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="CustomViewModelFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/util/CustomViewModelFactory.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="962">
-              <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
-              <folding>
-                <element signature="e#692#693#0" expanded="true" />
-                <element signature="e#736#737#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="288">
+              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomeFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/HomeFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-326">
-              <caret line="104" column="28" lean-forward="false" selection-start-line="104" selection-start-column="28" selection-end-line="104" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3659#3660#0" expanded="true" />
-                <element signature="e#3701#3702#0" expanded="true" />
-                <element signature="e#3754#3755#0" expanded="true" />
-                <element signature="e#3808#3809#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Adapter.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Adapter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/Adapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="33" column="36" lean-forward="false" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+            <state relative-caret-position="204">
+              <caret line="73" column="50" lean-forward="true" selection-start-line="73" selection-start-column="50" selection-end-line="73" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="item.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1197">
+              <caret line="57" column="4" lean-forward="false" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -355,46 +85,9 @@
       <file leaf-file-name="DetailFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/DetailFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2448">
-              <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+            <state relative-caret-position="168">
+              <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DetailFragmentViewModel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/viewmodel/DetailFragmentViewModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-              <folding>
-                <element signature="e#585#586#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeFragmentViewModel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/viewmodel/HomeFragmentViewModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddFragmentViewModel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/viewmodel/AddFragmentViewModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-              <folding>
-                <element signature="e#518#519#0" expanded="true" />
-                <element signature="e#551#552#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#627#628#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -402,34 +95,9 @@
       <file leaf-file-name="AddFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/AddFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+            <state relative-caret-position="1029">
+              <caret line="76" column="36" lean-forward="false" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FragmentBase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/base/FragmentBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ViewModelBase.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/base/ViewModelBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-              <folding>
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-                <element signature="e#498#499#0" expanded="true" />
-                <element signature="e#538#539#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -2553,9 +2221,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -2570,40 +2235,6 @@
             </path>
             <path>
               <item name="note1" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="room1" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="note1" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="room1" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="note1" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="room1" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="note1" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="room1" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="note1" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="room1" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="viewmodel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="note1" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
@@ -2611,6 +2242,9 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2788,35 +2422,59 @@
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46674585" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22019334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32779098" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39904988" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46674585" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32779098" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39904988" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22019334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2829,7 +2487,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2837,10 +2495,127 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="57" column="4" lean-forward="false" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/DetailFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/AddFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="76" column="36" lean-forward="false" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="57" column="4" lean-forward="false" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/DetailFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/util/OnFragmentInteractionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/AddFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="76" column="36" lean-forward="false" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="74" column="9" lean-forward="true" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="57" column="4" lean-forward="false" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2849,10 +2624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="962">
           <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
-          <folding>
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2860,9 +2631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-          <folding>
-            <element signature="e#585#586#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2870,12 +2638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-          <folding>
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2883,22 +2645,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/DetailFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2448">
-          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        <state relative-caret-position="168">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/Adapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="33" column="36" lean-forward="false" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+        <state relative-caret-position="204">
+          <caret line="73" column="50" lean-forward="true" selection-start-line="73" selection-start-column="50" selection-end-line="73" selection-end-column="50" />
           <folding />
         </state>
       </provider>
@@ -2919,8 +2680,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/yendry/room1/view/AddFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+        <state relative-caret-position="1029">
+          <caret line="76" column="36" lean-forward="false" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -2929,7 +2690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2937,12 +2697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
           <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-          <folding>
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

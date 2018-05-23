@@ -2,7 +2,9 @@ package com.example.yendry.room1.view;
 
 import android.app.AlertDialog;
 import android.content.Context;
+import android.os.Build;
 import android.support.annotation.NonNull;
+import android.support.annotation.RequiresApi;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -15,6 +17,7 @@ import com.example.yendry.room1.util.AdapterInterface;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.function.Consumer;
 
 /**
  * Created by yendry on 5/11/18.
@@ -32,7 +35,8 @@ public class Adapter extends RecyclerView.Adapter<Adapter.MyVH> {
 
 
     public void setList(List<Note> list) {
-        this.list = list;
+        this.list.clear();
+        this.list.addAll(list);
         notifyDataSetChanged();
     }
 
